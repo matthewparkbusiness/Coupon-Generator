@@ -1,0 +1,53 @@
+Item Barcode,Item Name,Price,Category
+8245,Cheese,499,Dairy
+5231,Milk,499,Dairy
+1448,Orange Juice,499,Drinks
+5817,Energy Drink,299,Drinks
+2772,Sprite,199,Drinks
+6136,Coke,215,Drinks
+3525,Fanta,199,Drinks
+6292,Non-Alcoholic Beverage,1499,Drinks
+1250,Pears,200,Fruits
+7810,Bananas,300,Fruits
+7941,Pineapple,159,Fruits
+8111,Durian,2000,Fruits
+2496,Orange,199,Fruits
+9694,Watermelon,499,Fruits
+3933,Nectarines,200,Fruits
+4872,Apple,199,Fruits
+2855,Tylenol,499,Health
+2911,Cough Drops,299,Health
+1726,Bandages,199,Health
+9957,Plastic Wrap,399,Kitchen
+9249,Pan,1899,Kitchen
+2352,Spatula,1299,Kitchen
+8105,Takis,199,Snacks
+5274,Donuts,599,Snacks
+8937,Chocolate,99,Snacks
+6681,Skittles,150,Snacks
+6631,Dino Nuggets,799,Snacks
+2893,Cupcakes,482,Snacks
+9478,Chips,100,Snacks
+7321,Gummy Bears,299,Snacks
+3258,Microwaveable Pizza,899,Snacks
+6721,Vanilla Ice Cream,499,Snacks
+8312,Doritos,100,Snacks
+2901,Energy Bar,99,Snacks
+1920,Chocolate Ice Cream,515,Snacks
+6871,Fruit Snacks,99,Snacks
+3407,Salsa,199,Snacks
+6392,Gummy Worms,299,Snacks
+7571,Cheetos,299,Snacks
+7126,Cereal,299,Snacks
+7988,Lays,199,Snacks
+8840,Potatoes,203,Veggies
+1992,Green Onions,99,Veggies
+8706,Carrots,200,Veggies
+7889,Lettuce,399,Veggies
+4135,Eggplant,307,Veggies
+9342,Chives,199,Veggies
+1516,Onions,200,Veggies
+3867,Cabbage,399,Veggies
+7111,Bean Sprouts,299,Veggies
+4898,Green Beans,299,Veggies
+1251,Bok Choy,199,Veggies
